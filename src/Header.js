@@ -8,8 +8,8 @@ import React from 'react'
 
 const Header = () => {
 	return (
-		<div className="header">
-			<h1>WILDFIRE TRACKER (powered by NASA)</h1>
+		<div className='header'>
+			<h1><div className="header-icon" />WILDFIRE TRACKER (powered by NASA)</h1>
 		</div>
 	);
 }
